@@ -5,6 +5,6 @@
 * Additional filter for showing results in given range
 * Search feature
 
-![Example: ](https://github.com/jovanovic-djo/Word-Appearance-Counter-Python/Example.png)
+![Example: ]([https://github.com/jovanovic-djo/Word-Appearance-Counter-Python/Example.png](https://raw.githubusercontent.com/jovanovic-djo/Word-Appearance-Counter-Python/main/Example.png))
 
 
