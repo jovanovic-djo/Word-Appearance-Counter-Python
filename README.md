@@ -4,3 +4,6 @@
 * Allowing user to import text file and export results
 * Additional filter for showing results in given range
 * Search feature
+
+![Example: ](https://github.com/jovanovic-djo/Word-Appearance-Counter-Python/Example.png)
+
