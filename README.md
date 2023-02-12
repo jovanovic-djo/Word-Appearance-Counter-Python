@@ -7,3 +7,4 @@
 
 ![Example: ](https://github.com/jovanovic-djo/Word-Appearance-Counter-Python/Example.png)
 
+
