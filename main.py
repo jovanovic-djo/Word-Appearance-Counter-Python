@@ -36,8 +36,6 @@ def sort_alphabetically():
                 word_count[word] = 1
 
     sorted_words = sorted(word_count.items(), key=lambda x: x[0])
-    result = ""
-
     result = "Total number of different words: " + str(len(word_count)) + "\n\n"
     for word, count in sorted_words:
         result += f"{word}: {count}\n"
